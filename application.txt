@@ -1,0 +1,2 @@
+print("Some String");
+print("Other String");
